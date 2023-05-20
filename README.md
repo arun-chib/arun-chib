@@ -1,4 +1,4 @@
-### Hi there I am Arun Chib 👋
+### Hi! I am Arun Chib 👋
 
 <!--
 **arun-chib/arun-chib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
